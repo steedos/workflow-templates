@@ -9,7 +9,7 @@
     - 人事类
   - 集团
   - 政府
-  - 行政事业
+  - 行政事业
 - en-us
   - default
     - Administration
