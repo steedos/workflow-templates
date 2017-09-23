@@ -3,12 +3,16 @@
 文件夹结构
 
 - zh-cn
-  - 行政类
-  - 财务类
-  - 人事类
-  - ...
+  - default
+    - 行政类
+    - 财务类
+    - 人事类
+    - ...
+  - 集团企业
+  - 政府部门
 - en-us
-  - Administration
-  - Finanial
-  - HR
-  - ...
+  - default
+    - Administration
+    - Finanial
+    - HR
+    - ...
